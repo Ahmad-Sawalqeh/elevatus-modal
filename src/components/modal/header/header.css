@@ -1,0 +1,16 @@
+.height{
+    min-height: 200px;
+}
+.imageWidth{
+    max-width: 75px;
+    max-height: 75px;
+    
+}
+
+.color{
+    color: orange;
+}
+.border{
+    width: auto;
+    height: auto;
+}
